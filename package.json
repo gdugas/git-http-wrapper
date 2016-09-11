@@ -1,0 +1,28 @@
+{
+  "name": "git-http-wrapper",
+  "version": "0.1.0",
+  "description": "Git http wrapper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdugas/git-http-wrapper.git"
+  },
+  "keywords": [
+    "backend",
+    "git",
+    "http",
+    "wrapper"
+  ],
+  "author": "Guillaume Dugas",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/gdugas/git-http-wrapper/issues"
+  },
+  "homepage": "https://github.com/gdugas/git-http-wrapper#readme"
+}
